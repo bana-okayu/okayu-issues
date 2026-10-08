@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 個人情報を含むお問い合わせ
+    url: https://okayubot.jp/contact
+    about: 公開Issueに載せられない内容はこちらへ
+  - name: Okayu Formsのヘルプ
+    url: https://form-help.okayubot.jp
+    about: フォームの使い方を確認する
